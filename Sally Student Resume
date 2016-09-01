@@ -1,0 +1,50 @@
+<html>
+
+<header>
+  <meta name="description" content="Sally Student Resume.">
+  <title>Sally Student</title>
+</header>
+
+<body>
+  <h1>Sally Student</h1>
+  <p>Senior Web Developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Well versed in numerous programming languages.</p>
+  <img style="-webkit-user-select: none" src="http://ia.media-imdb.com/images/M/MV5BMTY5NzE3NzU3MF5BMl5BanBnXkFtZTgwMjg0NTQ5MDE@._V1_UX214_CR0,0,214,317_AL_.jpg" alt="Sally Student posing for her resume.">
+  <h2>Skills</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>jQuery</li>
+  </ul>
+  <h2>Education</h2>
+  <h3>Bachelor of Science: Computer Information Systems,
+  <br />
+  Graduated June 2010</h3>
+  <p>California State University, Long Beach, California</p>
+  <ul>
+    <li>Top 5% of class</li>
+  </ul>
+  <h2>Work Experience</h2>
+  <h3>Cognizant, Pasadena, California 2012-Present</h3>
+  <p>Web Developer</p>
+  <ul>
+    <li>Assist in the programming and ongoing maintenance of website pages including content updates, coding, and graphics</li>
+    <li>Develop test plans and work with customers and technical staff to troubleshoot and debug website performance and software issues</li>
+  </ul>
+  <h3>First Street Products, Rocklin, California 2011-2012</h3>
+  <p>Web Developer</p>
+  <ul>
+    <li>Responsible for web page and landing page creation, design functionality and SEO</li>
+    <li>Responsible for maintaining, expanding, and scaling multiple sites and sales channels</li>
+  </ul>
+  <h2>Contact Information</h2>
+  <ul>
+    <li>Sally Student</li>
+    <li>Email: <a href="sallystudent@email.com">sallystudent@email.com</a></li>
+    <li>Phone: (123)555-1234</li>
+  </ul>
+
+
+</body>
+
+</html>
